@@ -1,16 +1,3 @@
 # application_pokemon
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O repositório "pokemon_application" é um projeto que utiliza uma API para buscar dados de todos os Pokémons e exibi-los em uma interface de usuário. O objetivo principal é fornecer aos usuários uma lista completa de Pokémons, onde eles podem selecionar um Pokémon específico para visualizar suas informações detalhadas, como nome, altura, peso e outras informações relevantes.
